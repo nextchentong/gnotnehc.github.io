@@ -1,0 +1,12 @@
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <g id="line">
+    <circle cx="36" cy="36.0001" r="23" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line x1="26.3444" y1="40.701" x2="26.3444" y2="48.4864" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line x1="32.3444" y1="40.701" x2="32.3444" y2="48.4864" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line x1="38.3444" y1="40.701" x2="38.3444" y2="48.4864" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line x1="44.3444" y1="40.701" x2="44.3444" y2="48.4864" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <rect x="21.3211" y="40.4449" width="29.3577" height="8.0415" rx="4.0207" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+    <circle cx="27.375" cy="31.2568" r="2.6038"/>
+    <circle cx="44.625" cy="31.2568" r="2.6038"/>
+  </g>
+</svg>
